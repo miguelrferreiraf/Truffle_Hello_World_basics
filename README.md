@@ -34,18 +34,6 @@ Os testes (`test/greeter_test.js`) validam:
 3. Se a função `owner()` retorna o endereço do deployer.  
 4. Se apenas o `owner` pode atualizar a saudação.  
 
----
-## 📂 Estrutura do Projeto
-
-greeter/
-├─ contracts/
-│ └─ Greeter.sol # Contrato principal
-├─ migrations/
-│ └─ 2_deploy_greeter.js # Script de deploy do contrato
-├─ test/
-│ └─ greeter_test.js # Testes em JavaScript
-└─ README.md # Este arquivo
-
 
 ---
 
