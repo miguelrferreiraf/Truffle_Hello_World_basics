@@ -60,7 +60,7 @@ truffle compile
 ```
 truffle test
 ```
-📖 Referência
+### 📖 Referência
 
 Projeto inspirado no livro:
 Hands-On Smart Contract Development with Solidity and OpenZeppelin (Kevin Solorio, Randall Kanna, David H. Hoover).
